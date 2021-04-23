@@ -1,7 +1,7 @@
 package com.hk.app;
 
 import java.awt.*;
-import javax.swing.JFrame;
+import javax.swing.*;
 
 public class ContSample extends JFrame {
 
